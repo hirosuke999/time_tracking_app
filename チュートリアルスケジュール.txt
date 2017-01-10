@@ -1,0 +1,15 @@
+# 1
+コンポーネント指向とJSX
+
+# 2
+VirtualDOM
+
+# 2
+コンポーネント作成＋ライフサイクルメソッド
+https://facebook.github.io/react/docs/react-component.html
+
+# 3
+props
+
+# 4
+state
